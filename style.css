@@ -1,0 +1,107 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 291px;
+
+}
+
+.nav-link {
+    color: #FED136;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 41px;
+    text-transform: uppercase;
+    padding: 0 15px
+}
+
+.logo-treehouse {
+    font-family: 'Bilbo Swash Caps';
+    color: #FED136;
+
+
+
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 41px;
+    letter-spacing: 1.3px;
+
+}
+
+header {
+    display: flex;
+
+}
+
+.container {
+    width: 933px;
+    margin: 0 auto;
+
+}
+
+.services-tittle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #222222;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    
+
+    line-height: 75px;
+
+    
+
+
+}
+
+.Services {
+    display: flex;
+}
+
+.img-services {
+    justify-content: center;
+    justify-content: center;
+}
+
+.main__tittle {
+    color: var(--titles);
+    text-align: center;
+    font-family: 'Montserrat'
+
+}
+
+.main__desrc {
+    color: var(--submain);
+    text-align: center;
+    font-family: 'Roboto Slab'
+}
+
+.contact-us {
+    display: flex;
+    justify-content: center;
+    
+    font-family: "Montserrat";
+    font-size: 40px;
+    font-weight: 700;
+}
+
+footer {
+    background-color: #222222;
+    padding: 96px 0 115px 0;
+    flex-direction: column;
+}
+::placeholder {
+    color: #BBB;
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: -0.35px;
+text-transform: uppercase;
+}
